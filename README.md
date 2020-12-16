@@ -9,7 +9,7 @@
   <p align="center">
     18/12/2020
     <br />
-    <a href="https://github.com/spamz23/TECH-EDU-ACADEMIC-DROPOUT-WORKSHOP/blob/main/notebook.ipynb"><strong>Explore the Notebook »</strong></a>
+    <a href="https://github.com/spamz23/TECH-EDU-ACADEMIC-DROPOUT-WORKSHOP/blob/main/notebook.ipynb"><strong>Explore the Notebook</strong></a>
     <br />
   </p>
 </p>
