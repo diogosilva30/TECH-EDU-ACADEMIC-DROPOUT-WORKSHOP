@@ -18,7 +18,7 @@
 
 ## About the workshop
 
-Academic failure has always been a problem for educational institutions. In this workshop, we explained how it is possible to predict academic dropouts through machine learning techniques. Both `Random Forests` and `Neural networks` will be explored.
+Academic failure has always been a problem for educational institutions. In this workshop, we explained how it is possible to predict academic dropouts through machine learning techniques. Both `Random Forests` and `Neural networks` are explored.
 First, we made a theoretical introduction to the previously mentioned algorithms as well as some frequent pre-processing techniques. Secondly, we presented a quick demo on how to implement these algorithms in Python.
 
 ## Hosts
